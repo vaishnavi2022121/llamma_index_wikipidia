@@ -1,9 +1,9 @@
-python.dotnev
+python-dotnev
 groq
 llama-index
 streamlit
 nltk
-langchain.groq
+langchain-groq
 langchain_community
 requests
 beautifulsoup4
